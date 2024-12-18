@@ -5,11 +5,11 @@ Welcome to my portfolio! Here, you'll find information about my professional bac
 ---
 
 ## About Me  
-🌍 **Environmental Scientist & GIS Analyst** | 🎓 Environmental Studies (F&M College), GIS Certificate (Penn State)  
+🌍 **Environmental Scientist & GIS Analyst** | 🎓 Environmental Studies (F&M College), Graduate Certificate in GIS (Penn State)  
 🚀 Currently pursuing a **Master's in Spatial Data Science**  
 📍 Based in the DC/Baltimore Area  
 
-I work at the intersection of **environmental science**, **GIS analysis**, and **emerging technologies** like **drones** and **spatial computing**. My ultimate goal is to combine my expertise to contribute to innovative projects that support sustainability, explore space, or enhance government technology.
+I work at the intersection of **environmental science**, **GIS analysis**, **data science**, and **emerging technologies** like **drones** and **spatial computing**. My ultimate goal is to combine my expertise to contribute to innovative projects that support sustainability, explore space, or enhance government technology.
 
 ---
 
