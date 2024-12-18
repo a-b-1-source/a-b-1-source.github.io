@@ -16,7 +16,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, and *
 ## Skills  
 ### Technical Skills  
 - **Programming**: Python (ArcPy, Pandas, Matplotlib), SQL  
-- **GIS**: ArcGIS Pro, QGIS, ArcGIS Online, Geospatial Analysis  
+- **GIS**: ArcGIS Pro, ArcGIS Online, Geospatial Analysis  
 - **Remote Sensing**: Drone Piloting (FAA Part 107 certified), Satellite Imagery Analysis  
 - **Data Visualization**: Power BI, Tableau, Geospatial Dashboards  
 
@@ -46,7 +46,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, and *
 ---
 
 ## Education  
-- **M.P.S. in Spatial Data Science (In Progress)** – Penn State University  
+- **M.S. in Spatial Data Science (In Progress)** – Penn State University  
 - **GIS Certificate** – Penn State University  
 - **B.A. in Environmental Studies** – Franklin and Marshall College  
 
@@ -58,14 +58,13 @@ I work at the intersection of **environmental science**, **GIS analysis**, and *
 - Specializing in Chesapeake Bay restoration and GIS solutions for ecological projects.  
 
 ### Boat Captain & Field Researcher  
-- Managed research vessels for subaquatic vegetation monitoring in Baltimore and Anne Arundel counties.  
+- Managed research and survey vessels for subaquatic vegetation monitoring in Baltimore and Anne Arundel counties.  
 
 ---
 
 ## Contact Me  
 📧 **Email**: [alex.bandarenko@gmail.com](mailto:alex.bandarenko@gmail.com)  
-🌐 **LinkedIn**: [linkedin.com/in/alex-bandarenko](https://linkedin.com/in/alex-bandarenko)  
-🐦 **Twitter**: [@alexbandarenko](https://twitter.com/alexbandarenko)  
+🌐 **LinkedIn**: [linkedin.com/in/alex-bandarenko](https://linkedin.com/in/alex-bandarenko)   
 📍 **Location**: Annapolis, MD  
 
 ---
