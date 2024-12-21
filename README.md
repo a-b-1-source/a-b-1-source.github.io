@@ -15,15 +15,16 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ## Skills  
 ### Technical Skills  
-- **Programming**: Python (ArcPy, Pandas, Matplotlib), SQL  
+- **Programming**: Python (ArcPy), SQL, HTML  
 - **GIS**: ArcGIS Pro, ArcGIS Online, Geospatial Analysis  
 - **Remote Sensing**: Drone Piloting (FAA Part 107 certified), Satellite Imagery Analysis  
-- **Data Visualization**: Power BI, Tableau, Geospatial Dashboards  
+- **Data Visualization**: Geospatial Dashboards  
 
 ### Soft Skills  
 - Project Management  
 - Stakeholder Communication  
-- Research & Data Interpretation  
+- Research & Data Interpretation
+- Business Acumen 
 
 ---
 
@@ -47,14 +48,14 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ## Education  
 - **M.S. in Spatial Data Science (In Progress)** – Penn State University  
-- **GIS Certificate** – Penn State University  
+- **Graduate Certificate in GIS** – Penn State University  
 - **B.A. in Environmental Studies** – Franklin and Marshall College  
 
 ---
 
 ## Work Experience  
 ### Environmental Scientist / GIS Analyst  
-**Bayland Environmental Engineering** | *Annapolis, MD*  
+**Bayland Engineers, Designers, and Consultants** | *Annapolis, MD*  
 - Specializing in Chesapeake Bay restoration and GIS solutions for ecological projects.  
 
 ### Boat Captain & Field Researcher  
