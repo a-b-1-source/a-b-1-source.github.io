@@ -29,25 +29,25 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ---
 
 ## Projects  
+### 🌱 [Subaquatic Vegetation Surveys - Baltimore County](https://drive.google.com/file/d/15wwp6el_BKR4gihspn6cxKzxbaKyjVjT/view?usp=drive_link)  
+- During the spring and summer months I lead a team of field researchers and environmental scientists for the yearly SAV surveys for both Anne Arundel and Baltimore Counties in Maryland. This project consists of every single step of the geospatial analysis process from data collection and engineering, to data analysis, visualization, technical reporting, and cartography. 
+- The link above will take you to a Google Drive where the PDF verision of the entire project's deliverables are. You will need to have a PDF Viewer such as Adobe, or download the pdf in order to view the document, final reports, maps, and charts.
+- A ArcGIS StoryMap is in progress and will be published here. 
+- Tools: GPS Mapping, Data Collection, Statistical Analysis, Cartography, Data Visualization, Data Analysis, Field Work
+
 ### 🔍 [Spring and Summer SAV Bed Composite Automation](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/2814ed4ff8bdd321f419cb1463c1aad0db2d825d/Create%20the%20Yearly%20Composites)  
 - Developed Python scripts to automate the creation of SAV composite beds for VIMS' monitoring web maps using 2024 data.
-- The purpose is to merged the spring and summer surveys to create a yearly outline for the SAV beds in each waterway.
-- Found within the same repository, you will see examples of scripts I created to help automate and perform data analysis and run geoprocessing tools. If you want to test the scripts you will need the SAV Data which can be located [here](https://drive.google.com/file/d/1dZfMBy6YFHtZFXraY-EtB0z1GfYf4Hxg/view?usp=sharing).
-- You will need to update and edit the file paths and have access to a cartography software like ArcGIS Pro, ArcMap, or QGIS to view.   
-- Tools: Python, ArcPy, ArcGIS Pro  
-
-### 🌱 [Subaquatic Vegetation Surveys](https://drive.google.com/file/d/15wwp6el_BKR4gihspn6cxKzxbaKyjVjT/view?usp=drive_link)  
-- Conducted SAV surveys in Chesapeake Bay, analyzing species density trends using geospatial methods.  
-- The link above will take you to a Google Drive where the PDF verision of the entire project's deliverables are. You will need to download the pdf in order to view the document and final reports.
-- A ArcGIS StoryMap is in progress and will be published here. 
-- Tools: GPS Mapping, Data Collection, Statistical Analysis, Cartography, Data Visualization, Data Analysis.  
-
-### 🌊 [Stream Monitoring Downstream of Construction Sites]()  
-- Monitored and reported on environmental impacts downstream of construction sites to ensure compliance with local regulations.  
+- The purpose for this script was to merge the spring and summer surveys to create a yearly outline for the SAV beds in each waterway.
+- If you want to test the scripts you will need the SAV Data which can be located [here](https://drive.google.com/file/d/1dZfMBy6YFHtZFXraY-EtB0z1GfYf4Hxg/view?usp=sharing).
+- You will need to update and edit the file paths and have access to a cartography software like ArcGIS Pro, ArcMap, or QGIS to view and run the script. The script takes both the spring and summer folders containing the SAV data, and perform a series of geoprocessing tools to output what can be seen in the "Composites_Master" file.   
+- Tools: Python, Github, ArcPy, ArcGIS Pro  
 
 ### 🗺️ [Shapefile Statistical Comparison & Analysis](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/9a5980594703cdce793f368f9b80c9a7d1ebe31f/SAV%20Species%20Distribution)  
-- Analyzed SAV data for species and acreage trends, comparing datasets across seasons.  
-- Tools: ArcGIS Pro, Python  
+- Analyzed SAV data for species, density, and acreage trends, comparing datasets across seasons. This data is crucial for enviromental restoration efforts in the county's waterways. Due to the natural geography of Maryland and the environmental importance of these fragile waterways and wetlands, the data is crucial for environmental engineering efforts such as shoreline restoration, dredging, marina design and engineering, and is a key indicator for the overall environmental health of the waterways.
+- Tools: ArcGIS Pro, Python 
+
+### 🌊 [Stream Monitoring Downstream of Construction Sites]()  
+- Monitored and reported on environmental impacts downstream of construction sites to ensure compliance with local regulations.
 
 ---
 
