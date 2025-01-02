@@ -32,7 +32,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ### 🔍 [Spring and Summer SAV Bed Composite Automation](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/2814ed4ff8bdd321f419cb1463c1aad0db2d825d/Create%20the%20Yearly%20Composites)  
 - Developed Python scripts to automate the creation of SAV composite beds for VIMS' monitoring web maps using 2024 data.
 - The purpose is to merged the spring and summer surveys to create a yearly outline for the SAV beds in each waterway.
-- Found within the same repository, you will see examples of scripts I created to help automate and perform data analysis and run geoprocessing tools. If you want to test the scripts you will need the SAV Data which can be located [here] ().
+- Found within the same repository, you will see examples of scripts I created to help automate and perform data analysis and run geoprocessing tools. If you want to test the scripts you will need the SAV Data which can be located [here](https://drive.google.com/file/d/1dZfMBy6YFHtZFXraY-EtB0z1GfYf4Hxg/view?usp=sharing).
 - You will need to update and edit the file paths and have access to a cartography software like ArcGIS Pro, ArcMap, or QGIS to view.   
 - Tools: Python, ArcPy, ArcGIS Pro  
 
