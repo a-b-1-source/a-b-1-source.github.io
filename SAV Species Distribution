@@ -1,0 +1,90 @@
+import arcpy
+import os
+
+# Set workspace to directory where shapefiles are located
+arcpy.env.workspace = r"S:\\Maryland\Anne_Arundel_County\AASAVData\2024\AACO 2024 Shapefiles"
+
+# Define paths to the spring and summer shapefiles
+springcreeks = r"S:\\Maryland\Anne_Arundel_County\AASAVData\2024\AACO 2024 Shapefiles\Spring"
+summercreeks = r"S:\\Maryland\Anne_Arundel_County\AASAVData\2024\AACO 2024 Shapefiles\Summer"
+
+# Change the workspace to springcreeks and list feature classes
+arcpy.env.workspace = springcreeks
+springfc = arcpy.ListFeatureClasses()
+
+# Change the workspace to summercreeks and list feature classes
+arcpy.env.workspace = summercreeks
+summerfc = arcpy.ListFeatureClasses()
+
+print(f"The available waterways for the spring season are: ", springfc)
+print(f"The available waterways for the summer season are: ", summerfc)
+
+# Function to find matching shapefiles
+def find_matching_shapefile(springfc, summerfc):
+    matching_pairs = []
+    for spring_file in springfc:
+        base_name_spring = spring_file[:-5]  # Remove ".shp" extension and last character
+        summer_file = base_name_spring + "B.shp"
+        if summer_file in summerfc:
+            matching_pairs.append((spring_file, summer_file))
+    return matching_pairs
+
+# Define species mappings
+species_mapping = {
+    "Cd1": "Coontail", "Cd2": "Coontail", "Cd3": "Coontail", "Cd4": "Coontail",
+    "Ec1": "Elodea", "Ec2": "Elodea", "Ec3": "Elodea", "Ec4": "Elodea",
+    "Hv1": "Hydrilla", "Hv2": "Hydrilla", "Hv3": "Hydrilla", "Hv4": "Hydrilla",
+    "Ms1": "Eurasian Watermilfoil","Ms2": "Eurasian Watermilfoil","Ms3": "Eurasian Watermilfoil","Ms4": "Eurasian Watermilfoil",
+    "Ng1": "Southern Niads","Ng2": "Southern Niads","Ng3": "Southern Niads","Ng4": "Southern Niads",
+    "Pcr1": "Curly Pondweed","Pcr2": "Curly Pondweed","Pcr3": "Curly Pondweed","Pcr4": "Curly Pondweed",
+    "Ppc1": "Sago Pondweed", "Ppc2": "Sago Pondweed", "Ppc3": "Sago Pondweed", "Ppc4": "Sago Pondweed",
+    "Ppf1": "Redhead", "Ppf2": "Redhead", "Ppf3": "Redhead", "Ppf4": "Redhead",
+    "Ppu1": "Slender Pondweed", "Ppu2": "Slender Pondweed", "Ppu3": "Slender Pondweed", "Ppu4": "Slender Pondweed",
+    "Va1": "Wild Celery", "Va2": "Wild Celery", "Va3": "Wild Celery", "Va4": "Wild Celery",
+    "Zp1": "Horned Pondweed", "Zp2": "Horned Pondweed", "Zp3": "Horned Pondweed", "Zp4": "Horned Pondweed", 
+    # Add other species codes as needed
+}
+
+# Function to calculate acreage by species presence
+def calculate_acreage_by_species(shapefile_path):
+    species_acreages = {species: 0 for species in set(species_mapping.values())}
+    with arcpy.da.SearchCursor(shapefile_path, ["SPECIES_DE", "ACRES"]) as cursor:
+        for row in cursor:
+            species_codes = row[0].split()  # Split if multiple species are listed
+            for code in species_codes:
+                species = species_mapping.get(code)
+                if species:
+                    species_acreages[species] += row[1]
+    return species_acreages
+
+# Find matching spring and summer shapefiles
+matching_shapefiles = find_matching_shapefile(springfc, summerfc)
+
+# Print matched pairs
+print("Matching shapefile pairs:")
+for pair in matching_shapefiles:
+    print(f"Spring: {pair[0]}, Summer: {pair[1]}")
+
+# Process each pair of shapefiles
+for spring_file, summer_file in matching_shapefiles:
+    try:
+        # Paths to spring and summer shapefiles
+        spring_shape = os.path.join(springcreeks, spring_file)
+        summer_shape = os.path.join(summercreeks, summer_file)
+
+        # Calculate acreage by species for spring and summer shapefiles
+        spring_species_acreages = calculate_acreage_by_species(spring_shape)
+        summer_species_acreages = calculate_acreage_by_species(summer_shape)
+
+        # Output detailed acreages for each species within the waterway (creek)
+        print(f"\nSpecies Acreage for {spring_file[:-4]} (Spring):")
+        for species, acreage in spring_species_acreages.items():
+            print(f"  {species}: {acreage} acres")
+        
+        print(f"\nSpecies Acreage for {summer_file[:-4]} (Summer):")
+        for species, acreage in summer_species_acreages.items():
+            print(f"  {species}: {acreage} acres")
+
+    except RuntimeError as e:
+        print(f"Failed to process {spring_file} and {summer_file}: {e}")
+        continue
