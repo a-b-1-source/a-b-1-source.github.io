@@ -9,7 +9,7 @@ Welcome to my portfolio! Here, you'll find information about my professional bac
 🚀 Currently pursuing a **Master's in Spatial Data Science**  
 📍 Based in the DC/Baltimore Area  
 
-I work at the intersection of **environmental science**, **GIS analysis**, **data science**, and **emerging technologies** like **drones** and **spatial computing**. My ultimate goal is to combine my expertise to contribute to innovative projects that support sustainability, explore space, or enhance government technology.
+I work at the intersection of **environmental science**, **GIS analysis**, **data science**, and **emerging technologies** like **drones**, **artificial intelligence**, and **spatial computing**. My ultimate goal is to combine my expertise to contribute to innovative projects that support sustainability, explore space, enhance government technology, and defense initiatives.
 
 ---
 
@@ -50,8 +50,17 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ## Education  
 - **M.S. in Spatial Data Science (In Progress)** – Penn State University  
 - **Graduate Certificate in GIS** – Penn State University  
-- **B.A. in Environmental Studies** – Franklin and Marshall College  
+- **B.A. in Environmental Studies** – Franklin and Marshall College 
 
+### Relevant Coursework
+- Python Programming in ArcGIS
+- Geospatial Artificial Intelligence
+- Geospatial Applications of Unmanned Aerial Systems (UAS)
+- Spatial Data Science Ethics
+- Cartography and Visualization
+- Geovisual Analytics
+- Problem-Solving with GIS
+- Making Maps that Matter
 ---
 
 ## Work Experience  
@@ -60,7 +69,10 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - Specializing in Chesapeake Bay restoration and GIS solutions for ecological projects.  
 
 ### Boat Captain & Field Researcher  
-- Managed research and survey vessels for subaquatic vegetation monitoring in Baltimore and Anne Arundel counties.  
+- Managed research and survey vessels for subaquatic vegetation monitoring in Baltimore and Anne Arundel counties.
+
+### Other Professional Experience
+- Prior to the start of 2024, I worked as a retained technical recruiter in the Climate-Technology Industry. I worked with Private Equity, and Venture Capital backed companies to grow their teams from the director level, to board executives. Though this experience is not entirely relevant to my current work, I am happy to showcase the skills I gained from working as such. I spoke with and communicated with C-Suite executives on a daily basis, reporting and introducing new candidates in the hiring pipeline. I have placed Chief Technology Officers, Chief Development and Commercialization Officers, Chief Finance Officers, VP of Engineering, Director of Fermentation, etc... I will happily share more information regarding this expereince upon request.
 
 ---
 
