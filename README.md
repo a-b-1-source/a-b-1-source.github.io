@@ -31,12 +31,14 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ## Projects  
 ### 🔍 [Spring and Summer SAV Bed Composite Automation](https://github.com/your-repo-link)  
 - Developed Python scripts to automate the creation of SAV composite beds for VIMS' monitoring web maps using 2024 data.
-- The purpose is to merged the spring and summer surveys to create a yearly outline for the SAV beds in each waterway.  
+- The purpose is to merged the spring and summer surveys to create a yearly outline for the SAV beds in each waterway.
+- Found within the same repository, you will see examples of scripts I created to help automate and perform data analysis and run geoprocessing tools.   
 - Tools: Python, ArcPy, ArcGIS Pro  
 
 ### 🌱 [Subaquatic Vegetation Surveys](https://drive.google.com/file/d/15wwp6el_BKR4gihspn6cxKzxbaKyjVjT/view?usp=drive_link)  
 - Conducted SAV surveys in Chesapeake Bay, analyzing species density trends using geospatial methods.  
-- Tools: GPS Mapping, Data Collection, Statistical Analysis  
+- The link above will take you to a Google Drive where the PDF verision of the entire project's deliverables are. You will need to download the pdf in order to view the document and final reports. 
+- Tools: GPS Mapping, Data Collection, Statistical Analysis, Cartography, Data Visualization, Data Analysis.  
 
 ### 🌊 [Stream Monitoring Downstream of Construction Sites](https://github.com/your-repo-link)  
 - Monitored and reported on environmental impacts downstream of construction sites to ensure compliance with local regulations.  
