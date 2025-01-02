@@ -33,7 +33,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - Developed Python scripts to automate the creation of SAV composites for VIMS' monitoring web maps using 2024 data.  
 - Tools: Python, ArcPy, ArcGIS Pro  
 
-### 🌱 [Subaquatic Vegetation Surveys]([https://drive.google.com/file/d/15wwp6el_BKR4gihspn6cxKzxbaKyjVjT/view?usp=drive_link])  
+### 🌱 [Subaquatic Vegetation Surveys](https://drive.google.com/file/d/15wwp6el_BKR4gihspn6cxKzxbaKyjVjT/view?usp=drive_link)  
 - Conducted SAV surveys in Chesapeake Bay, analyzing species density trends using geospatial methods.  
 - Tools: GPS Mapping, Data Collection, Statistical Analysis  
 
