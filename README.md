@@ -30,7 +30,8 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ## Projects  
 ### 🔍 [Spring and Summer SAV Bed Composite Automation](https://github.com/your-repo-link)  
-- Developed Python scripts to automate the creation of SAV composites for VIMS' monitoring web maps using 2024 data.  
+- Developed Python scripts to automate the creation of SAV composite beds for VIMS' monitoring web maps using 2024 data.
+- The purpose is to merged the spring and summer surveys to create a yearly outline for the SAV beds in each waterway.  
 - Tools: Python, ArcPy, ArcGIS Pro  
 
 ### 🌱 [Subaquatic Vegetation Surveys](https://drive.google.com/file/d/15wwp6el_BKR4gihspn6cxKzxbaKyjVjT/view?usp=drive_link)  
