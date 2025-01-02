@@ -29,7 +29,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ---
 
 ## Projects  
-### 🔍 [Spring and Summer SAV Bed Composite Automation](Create the Yearly Composites)  
+### 🔍 [Spring and Summer SAV Bed Composite Automation](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/2814ed4ff8bdd321f419cb1463c1aad0db2d825d/Create%20the%20Yearly%20Composites)  
 - Developed Python scripts to automate the creation of SAV composite beds for VIMS' monitoring web maps using 2024 data.
 - The purpose is to merged the spring and summer surveys to create a yearly outline for the SAV beds in each waterway.
 - Found within the same repository, you will see examples of scripts I created to help automate and perform data analysis and run geoprocessing tools. If you want to test the scripts you will need the SAV Data which can be located [here] ().
@@ -45,7 +45,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ### 🌊 [Stream Monitoring Downstream of Construction Sites]()  
 - Monitored and reported on environmental impacts downstream of construction sites to ensure compliance with local regulations.  
 
-### 🗺️ [Shapefile Statistical Comparison & Analysis] (SAV Species Distribution)  
+### 🗺️ [Shapefile Statistical Comparison & Analysis](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/9a5980594703cdce793f368f9b80c9a7d1ebe31f/SAV%20Species%20Distribution)  
 - Analyzed SAV data for species and acreage trends, comparing datasets across seasons.  
 - Tools: ArcGIS Pro, Python  
 
