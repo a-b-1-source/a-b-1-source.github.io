@@ -50,9 +50,9 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ---
 
 ## Education  
-- **M.S. in Spatial Data Science (In Progress)** – Penn State University  
-- **Graduate Certificate in GIS** – Penn State University  
-- **B.A. in Environmental Studies** – Franklin and Marshall College 
+- **M.S. in Spatial Data Science (Anticipated Graduate August 2026)** – Penn State University  
+- **Graduate Certificate in GIS (November 2024)** – Penn State University  
+- **B.A. in Environmental Studies (May 2020)** – Franklin and Marshall College
 
 ### Relevant Coursework
 - Python Programming in ArcGIS
