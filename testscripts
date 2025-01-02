@@ -1,0 +1,71 @@
+import arcpy
+import os
+
+# Filepaths
+base_dir = r"S:\\Maryland\Baltimore_County\BCSAVData\2024\SAV_2024_Shapefiles"
+springcreeks = os.path.join(base_dir, "Spring_Master_2024")
+summercreeks = os.path.join(base_dir, "Summer_Master_24")
+
+arcpy.env.overwriteOutput = True
+
+# Output filepath for composites
+output_dir = os.path.join(base_dir, "2024 Composites")
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
+# Function to find matching shapefiles
+def find_matching_shapefile(springfc, summerfc):
+    matching_pairs = []
+    for spring_file in springfc:
+        # Extract base name (e.g., BRC24) from the spring file (e.g., BRC24A.shp)
+        base_name_spring = spring_file[:-5]  # Remove the ".shp" extension and last character
+        
+        # Find the corresponding summer file (e.g., BRC24B.shp)
+        summer_file = base_name_spring + "B.shp"
+        if summer_file in summerfc:
+            matching_pairs.append((spring_file, summer_file))
+    
+    return matching_pairs
+
+# Change the workspace to springcreeks and list feature classes
+arcpy.env.workspace = springcreeks
+springfc = arcpy.ListFeatureClasses()
+
+# Change the workspace to summercreeks and list feature classes
+arcpy.env.workspace = summercreeks
+summerfc = arcpy.ListFeatureClasses()
+
+# Find matching spring and summer shapefiles
+matching_shapefiles = find_matching_shapefile(springfc, summerfc)
+
+# Process each pair of shapefiles
+for spring_file, summer_file in matching_shapefiles:
+    try:
+        # Paths to shapefiles
+        spring_shape = os.path.join(springcreeks, spring_file)
+        summer_shape = os.path.join(summercreeks, summer_file)
+
+        # Output file names for dissolved spring and summer shapefiles
+        dissolved_spring = os.path.join(output_dir, f"{spring_file[:-4]}_dissolved.shp")
+        dissolved_summer = os.path.join(output_dir, f"{summer_file[:-4]}_dissolved.shp")
+
+        # Dissolve all polygons in spring and summer shapefiles
+        arcpy.management.Dissolve(spring_shape, dissolved_spring)
+        arcpy.management.Dissolve(summer_shape, dissolved_summer)
+
+        # Output file name for merged spring and summer shapefiles
+        merged_output = os.path.join(output_dir, f"{spring_file[:-5]}_Composite.shp")
+
+        # Merge the dissolved spring and summer shapefiles
+        arcpy.management.Merge([dissolved_spring, dissolved_summer], merged_output)
+
+        # Delete the dissolved shapefiles
+        arcpy.management.Delete(dissolved_spring)
+        arcpy.management.Delete(dissolved_summer)
+
+        # Print success message
+        print(f"Successfully created composite for {spring_file} and {summer_file} as {merged_output}")
+
+    except Exception as e:
+        print(f"Failed to process {spring_file} and {summer_file}: {e}")
+        continue
