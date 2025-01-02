@@ -29,21 +29,23 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ---
 
 ## Projects  
-### 🔍 [Spring and Summer SAV Bed Composite Automation](https://github.com/your-repo-link)  
+### 🔍 [Spring and Summer SAV Bed Composite Automation](Create the Yearly Composites)  
 - Developed Python scripts to automate the creation of SAV composite beds for VIMS' monitoring web maps using 2024 data.
 - The purpose is to merged the spring and summer surveys to create a yearly outline for the SAV beds in each waterway.
-- Found within the same repository, you will see examples of scripts I created to help automate and perform data analysis and run geoprocessing tools.   
+- Found within the same repository, you will see examples of scripts I created to help automate and perform data analysis and run geoprocessing tools. If you want to test the scripts you will need the SAV Data which can be located [here] ().
+- You will need to update and edit the file paths and have access to a cartography software like ArcGIS Pro, ArcMap, or QGIS to view.   
 - Tools: Python, ArcPy, ArcGIS Pro  
 
 ### 🌱 [Subaquatic Vegetation Surveys](https://drive.google.com/file/d/15wwp6el_BKR4gihspn6cxKzxbaKyjVjT/view?usp=drive_link)  
 - Conducted SAV surveys in Chesapeake Bay, analyzing species density trends using geospatial methods.  
-- The link above will take you to a Google Drive where the PDF verision of the entire project's deliverables are. You will need to download the pdf in order to view the document and final reports. 
+- The link above will take you to a Google Drive where the PDF verision of the entire project's deliverables are. You will need to download the pdf in order to view the document and final reports.
+- A ArcGIS StoryMap is in progress and will be published here. 
 - Tools: GPS Mapping, Data Collection, Statistical Analysis, Cartography, Data Visualization, Data Analysis.  
 
-### 🌊 [Stream Monitoring Downstream of Construction Sites](https://github.com/your-repo-link)  
+### 🌊 [Stream Monitoring Downstream of Construction Sites]()  
 - Monitored and reported on environmental impacts downstream of construction sites to ensure compliance with local regulations.  
 
-### 🗺️ [Shapefile Statistical Comparison & Analysis](https://github.com/your-repo-link)  
+### 🗺️ [Shapefile Statistical Comparison & Analysis] (SAV Species Distribution)  
 - Analyzed SAV data for species and acreage trends, comparing datasets across seasons.  
 - Tools: ArcGIS Pro, Python  
 
