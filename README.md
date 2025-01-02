@@ -46,8 +46,8 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - Analyzed SAV data for species, density, and acreage trends, comparing datasets across seasons. This data is crucial for enviromental restoration efforts in the county's waterways. Due to the natural geography of Maryland and the environmental importance of these fragile waterways and wetlands, the data is crucial for environmental engineering efforts such as shoreline restoration, dredging, marina design and engineering, and is a key indicator for the overall environmental health of the waterways.
 - Tools: ArcGIS Pro, Python 
 
-### 🌊 [Stream Monitoring Downstream of Construction Sites]()  
-- Monitored and reported on environmental impacts downstream of construction sites to ensure compliance with local regulations.
+### 🌊 [Drone Mapping & Aerial Photography]()  
+- As a recently certified FAA Part 107 Drone Pilot (November 2024), I am just beginning in my efforts to understand the importance of drones and UAS in this line of work. This section will be updated with a link to a portfolio of photos and videos.
 
 ---
 
