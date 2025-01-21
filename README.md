@@ -5,8 +5,8 @@ Welcome to my portfolio! Here, you'll find information about my professional bac
 ---
 
 ## About Me  
-🌍 **Environmental Scientist & GIS Analyst** | 🎓 Environmental Studies (F&M College), Graduate Certificate in GIS (Penn State)  
-🚀 Currently pursuing a **Master's in Spatial Data Science**  
+🌍 **Environmental Scientist, Drone Pilot, & GIS Analyst** | 🎓 Environmental Studies (F&M College), Graduate Certificate in GIS (Penn State)  
+🚀 Currently pursuing a **Master's in Spatial Data Science** with Penn State University  
 📍 Based in the DC/Baltimore Area  
 
 I work at the intersection of **environmental science**, **GIS analysis**, **data science**, and **emerging technologies** like **drones**, **artificial intelligence**, and **spatial computing**. My ultimate goal is to combine my expertise to contribute to innovative projects that support sustainability, explore space, enhance government technology, and defense initiatives.
@@ -15,16 +15,20 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ## Skills  
 ### Technical Skills  
-- **Programming**: Python (ArcPy), SQL, HTML  
-- **GIS**: ArcGIS Pro, ArcGIS Online, Geospatial Analysis  
-- **Remote Sensing**: Drone Piloting (FAA Part 107 certified), Satellite Imagery Analysis  
-- **Data Visualization**: Geospatial Dashboards  
+- **Programming**: Python (ArcPy), SQL, HTML, Github  
+- **GIS**: ArcGIS Pro, ArcGIS Online, Geospatial Analysis, ArcGIS StoryMaps, Mapbox Studio, QGIS, GeoAI  
+- **Remote Sensing**: Drone Piloting (FAA Part 107 certified), Satellite Imagery Analysis, FPV Piloting, PIX4D  
+- **Data Visualization**: Geospatial Dashboards
+- **Computer Builder**: Custom computer builds
+- **Drone Builder**: 5" Quad-copter, 7" Quad-copter FPV builds
 
 ### Soft Skills  
 - Project Management  
 - Stakeholder Communication  
 - Research & Data Interpretation
-- Business Acumen 
+- Business Acumen
+- Natural Leader
+- Student mindset and willingness to learn new things 
 
 ---
 
@@ -47,7 +51,9 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - Tools: ArcGIS Pro, Python 
 
 ### 🌊 [Drone Mapping & Aerial Photography]()  
-- As a recently certified FAA Part 107 Drone Pilot (November 2024), I am just beginning in my efforts to understand the importance of drones and UAS in this line of work. This section will be updated with a link to a portfolio of photos and videos.
+- As a recently certified FAA Part 107 Drone Pilot (November 2024), I am just beginning in my efforts to understand the importance of drones and UAS in various applications.
+- 50+ Hours in FPV flight simulators
+- This section will be updated with a link to a portfolio of photos and videos.
 
 ---
 
@@ -68,15 +74,22 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ---
 
 ## Work Experience  
-### Environmental Scientist / GIS Analyst  
+### Environmental Scientist / Drone Pilot/ GIS Analyst  
 **Bayland Engineers, Designers, and Consultants** | *Annapolis, MD*  
-- Specializing in Chesapeake Bay restoration and GIS solutions for ecological projects.  
+- Specializing in Chesapeake Bay restoration and GIS solutions for ecological projects.
+- Developed Python scripts to automate workflows for the SAV Project, significantly reducing repetitive tasks and improving efficiency.
+- Migrated BayLand's biggest GIS projects from ArcMap into ArcGIS Pro
+- Performed Construction Monitoring and Inspection (CMI) sergvices for multiple ecologically sensitive projects
+- Other job duties: Hydrographic Surveying, Stream monitoring, illicit discharge detection and elimination (IDDE), sediment sampling, cartography, soil boring/testing, Wolman pebble count and technical report writing
 
 ### Boat Captain & Field Researcher  
 - Managed research and survey vessels for subaquatic vegetation monitoring in Baltimore and Anne Arundel counties.
+- Successfully led the 2024 Baltimore and Anne Arundel County SAV Surveys as the primary responsible employee, including boat operation and trailer transportation.
+- Performed on the fly boat maintenance.
 
 ### Other Professional Experience
-- Prior to the start of 2024, I worked as a retained technical recruiter in the Climate-Technology Industry. I worked with Private Equity, and Venture Capital backed companies to grow their teams from the director level, to board executives. Though this experience is not entirely relevant to my current work, I am happy to showcase the skills I gained from working as such. I spoke with and communicated with C-Suite executives on a daily basis, reporting and introducing new candidates in the hiring pipeline, and maanged each individual search as it's own project. I have successfully placed Chief Technology Officers, a Chief Development and Commercialization Officers, Chief Financial Officers, a VP of Engineering, a Director of Fermentation, etc... I will happily share more information regarding this expereince upon request.
+- Prior to the start of 2024, I worked as a retained technical recruiter in the Climate-Technology Industry. I worked with Private Equity, and Venture Capital backed companies to grow their teams from the director level, to board executives. Though this experience is not entirely relevant to my current work, I am happy to showcase the skills I gained from working as such.
+- I spoke, and communicated with C-Suite executives on a daily basis, reporting and introducing new candidates in the hiring pipeline, and maanged each individual search as it's own project. I have successfully placed Chief Technology Officers, a Chief Development and Commercialization Officers, Chief Financial Officers, a VP of Engineering, a Director of Fermentation, etc... I will happily share more information regarding this expereince upon request.
 
 ---
 
@@ -89,6 +102,6 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ## Fun Facts  
 - 🛻 Proud owner of a 2023 Big Bend Ford Bronco  
-- 🐾 Bengal cat enthusiast  
+- 🐾 2x Cat Dad  
 - 🏖️ Planning a honeymoon in Bermuda  
 
