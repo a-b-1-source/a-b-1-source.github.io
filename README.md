@@ -74,7 +74,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ---
 
 ## Work Experience  
-### Environmental Scientist / Drone Pilot/ GIS Analyst  
+### Environmental Scientist / Drone Pilot / GIS Analyst  
 **Bayland Engineers, Designers, and Consultants** | *Annapolis, MD*  
 - Specializing in Chesapeake Bay restoration and GIS solutions for ecological projects.
 - Developed Python scripts to automate workflows for the SAV Project, significantly reducing repetitive tasks and improving efficiency.
