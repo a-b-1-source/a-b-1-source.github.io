@@ -82,7 +82,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - Performed Construction Monitoring and Inspection (CMI) sergvices for multiple ecologically sensitive projects
 - Other job duties: Hydrographic Surveying, Stream monitoring, illicit discharge detection and elimination (IDDE), sediment sampling, cartography, soil boring/testing, Wolman pebble count and technical report writing
 
-### Boat Captain & Field Researcher  
+### Boat Operator & Field Researcher  
 - Managed research and survey vessels for subaquatic vegetation monitoring in Baltimore and Anne Arundel counties.
 - Successfully led the 2024 Baltimore and Anne Arundel County SAV Surveys as the primary responsible employee, including boat operation and trailer transportation.
 - Performed on the fly boat maintenance.
