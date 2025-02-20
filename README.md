@@ -63,7 +63,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ---
 
 ## Education  
-- **M.S. in Spatial Data Science (Anticipated Graduate August 2026)** – Penn State University  
+- **M.S. in Spatial Data Science (Anticipated Graduation in August 2026)** – Penn State University  
 - **Graduate Certificate in GIS (Completed in November 2024)** – Penn State University  
 - **B.A. in Environmental Studies (May 2020)** – Franklin and Marshall College
 
@@ -71,11 +71,11 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - Python Programming in ArcGIS
 - Geospatial Artificial Intelligence
 - Geospatial Applications of Unmanned Aerial Systems (UAS)
-- Spatial Data Science Ethics
-- Cartography and Visualization - Tableau Projects:[1](https://public.tableau.com/views/Lab6_Part_1/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [2](https://public.tableau.com/views/Lab6_Part_2/Lab6Part2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [3](https://public.tableau.com/views/Lab6_Part_3/Lab6_Part_3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Spatial Data Science Ethics - Social and Behavioral Human Subjects Research Course Certificate
+- Cartography and Visualization - **Tableau Projects:** [1](https://public.tableau.com/views/Lab6_Part_1/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [2](https://public.tableau.com/views/Lab6_Part_2/Lab6Part2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [3](https://public.tableau.com/views/Lab6_Part_3/Lab6_Part_3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Geovisual Analytics
 - Problem-Solving with GIS
-- Making Maps that Matter
+- Making Maps that Matter - ArcGIS Pro, ArcGIS Online, QGIS
 ---
 
 ## Work Experience  
