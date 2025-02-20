@@ -15,7 +15,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ## Skills  
 ### Technical Skills  
-- **Programming**: Python (ArcPy), SQL, HTML, Github  
+- **Programming**: Python (ArcPy), SQL, HTML, GitHub  
 - **GIS**: ArcGIS Pro, ArcGIS Online, Geospatial Analysis, ArcGIS StoryMaps, Mapbox Studio, QGIS, GeoAI  
 - **Remote Sensing**: Drone Piloting (FAA Part 107 certified), Satellite Imagery Analysis, FPV Piloting, PIX4D  
 - **Data Visualization**: Geospatial Dashboards, **Tableau** [1] (https://public.tableau.com/views/Lab6_Part_1/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [2] (https://public.tableau.com/views/Lab6_Part_2/Lab6Part2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [3](https://public.tableau.com/views/Lab6_Part_3/Lab6_Part_3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
