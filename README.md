@@ -36,7 +36,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ---
 
-## Projects  
+## Projects - content can be viewed by clicking the project titles
 ### 🌱 [Subaquatic Vegetation Surveys - Baltimore County & Anne Arundel County](https://drive.google.com/file/d/15wwp6el_BKR4gihspn6cxKzxbaKyjVjT/view?usp=drive_link)  
 - During the spring and summer months I lead a team of field researchers and environmental scientists for the yearly SAV surveys for both Anne Arundel and Baltimore Counties in Maryland. This project consists of every single step of the geospatial analysis process from data collection and engineering, to data analysis, visualization, technical reporting, and cartography. 
 - The link above will take you to a Google Drive where the PDF verision of the entire project's deliverables are. You will need to have a PDF Viewer such as Adobe, or download the pdf in order to view the document, final reports, maps, and charts.
