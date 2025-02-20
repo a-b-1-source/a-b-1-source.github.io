@@ -46,14 +46,14 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - This project repeats yearly. For the 2025 year, I have built python scripts to automate the project initiation phase of the project. This consists of updating 80+ Layouts/Field Maps and exporting them, as well as renaming shapefiles and scrubbing data from their attribute tables.
 
 ### 🔍 [Spring and Summer SAV Bed Composite Automation]  
-- Developed [Python scripts](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/2814ed4ff8bdd321f419cb1463c1aad0db2d825d/Create%20the%20Yearly%20Composites) to automate the creation of SAV composite beds for VIMS' monitoring web maps using 2024 data. 
+- Developed [python scripts](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/2814ed4ff8bdd321f419cb1463c1aad0db2d825d/Create%20the%20Yearly%20Composites) to automate the creation of SAV composite beds for VIMS' monitoring web maps using 2024 data. 
 - The purpose for this script was to merge the spring and summer surveys to create a yearly outline for the SAV beds in each waterway.
 - If you want to test the scripts you will need the SAV Data which can be located [here](https://drive.google.com/file/d/1dZfMBy6YFHtZFXraY-EtB0z1GfYf4Hxg/view?usp=sharing).
 - You will need to update and edit the file paths and have access to a cartography software like ArcGIS Pro, ArcMap, or QGIS to view and run the script. The script takes both the spring and summer folders containing the SAV data, and perform a series of geoprocessing tools to output what can be seen in the "Composites_Master" file.   
 - Tools: Python, GitHub, ArcPy, ArcGIS Pro, Visual Studio Code 
 
 ### 🗺️ [Shapefile Statistical Comparison & Analysis]  
-- Created [python scrips](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/9a5980594703cdce793f368f9b80c9a7d1ebe31f/SAV%20Species%20Distribution) that analyzed and calculated SAV data for species, density, and acreage trends, comparing datasets across seasons. This data is crucial for enviromental restoration efforts in the county's waterways. Due to the natural geography of Maryland and the environmental importance of these fragile waterways and wetlands, the data is crucial for environmental engineering efforts such as shoreline restoration, dredging, marina design and engineering, and is a key indicator for the overall environmental health of the waterways.
+- Created [python scripts](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/9a5980594703cdce793f368f9b80c9a7d1ebe31f/SAV%20Species%20Distribution) that analyzed and calculated SAV data for species, density, and acreage trends, comparing datasets across seasons. This data is crucial for enviromental restoration efforts in the county's waterways. Due to the natural geography of Maryland and the environmental importance of these fragile waterways and wetlands, the data is crucial for environmental engineering efforts such as shoreline restoration, dredging, marina design and engineering, and is a key indicator for the overall environmental health of the waterways.
 - Tools: ArcGIS Pro, Python, Project Toolbox 
 
 ### 🌊 [Drone Mapping & Aerial Photography]() **Coming Soon...** 
