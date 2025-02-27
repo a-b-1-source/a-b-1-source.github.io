@@ -73,7 +73,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - Geospatial Artificial Intelligence
 - Geospatial Applications of Unmanned Aerial Systems (UAS)
 - Spatial Data Science Ethics - Social and Behavioral Human Subjects Research Course Certificate
-- Cartography and Visualization - **Tableau Projects:** [1](https://public.tableau.com/views/Lab6_Part_1/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [2](https://public.tableau.com/views/Lab6_Part_2/Lab6Part2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [3](https://public.tableau.com/views/Lab6_Part_3/Lab6_Part_3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Cartography and Visualization - **Tableau Projects:** [1](https://public.tableau.com/views/Lab6_Part_1/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [2](https://public.tableau.com/views/Lab6_Part_2/Lab6Part2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [3](https://public.tableau.com/views/Lab6_Part_3/Lab6_Part_3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [4](https://public.tableau.com/views/Bandarenko_Lab7/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Geovisual Analytics
 - Problem-Solving with GIS
 - Making Maps that Matter - ArcGIS Pro, ArcGIS Online, QGIS
