@@ -18,7 +18,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ## Skills  
 ### Technical Skills  
 - **Programming**: Python (ArcPy), SQL, HTML, GitHub  
-- **GIS**: ArcGIS Pro, ArcGIS Online, Geospatial Analysis, ArcGIS StoryMaps, Mapbox Studio, QGIS, GeoAI  
+- **GIS**: ArcGIS Pro, ArcGIS Online, Geospatial Analysis, ArcGIS StoryMaps, Mapbox Studio, QGIS, GeoAI, Survey123, Field Maps  
 - **Remote Sensing**: Drone Piloting (FAA Part 107 certified), Satellite Imagery Analysis, FPV Piloting, PIX4D  
 - **Data Visualization**: Geospatial Dashboards, **Tableau** 
 - **Computer Builder**: Custom computer builds
@@ -42,7 +42,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - During the spring and summer months I lead a team of field researchers and environmental scientists for the yearly SAV surveys for both Anne Arundel and Baltimore Counties in Maryland. This project consists of every single step of the geospatial analysis process from data collection and engineering, to data analysis, visualization, technical reporting, and cartography. 
 - This [link](https://drive.google.com/file/d/15wwp6el_BKR4gihspn6cxKzxbaKyjVjT/view?usp=drive_link) will take you to a Google Drive where the PDF verision of the entire project's deliverables are. You will need to have a PDF Viewer such as Adobe, or download the pdf in order to view the document, final reports, maps, and charts.
 - An ArcGIS StoryMap has been created and is pending approval for public viewing. 
-- Tools: GPS Mapping, Data Collection, Statistical Analysis, Cartography, Data Visualization, Data Analysis, Field Work, ArcGIS StoryMap
+- Tools: ESRI Field Maps, GPS Mapping, Data Collection, Statistical Analysis, Cartography, Data Visualization, Data Analysis, Field Work, ArcGIS StoryMap
 - This project repeats yearly. For the 2025 year, I have built python scripts to automate the project initiation phase of the project. This consists of updating 80+ Layouts/Field Maps and exporting them, as well as renaming shapefiles and scrubbing data from their attribute tables.
 
 ### 🔍 Spring and Summer SAV Bed Composite Automation  
