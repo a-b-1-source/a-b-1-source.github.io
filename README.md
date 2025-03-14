@@ -40,13 +40,14 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ### 🌱 2025 Subaquatic Vegetation Surveys - Baltimore County & Anne Arundel County
 - For the 2025 year, I have built python scripts to automate the project initiation phase of the project. This consists of updating 80+ Layouts/Field Maps and exporting them, as well as renaming shapefiles and scrubbing data from their attribute tables.
+- Implemented ESRI's Field Maps to perform data collection via iPad in the field, upgrading from previous legacy systems
 - Tools: Jupyter Notebook
 
 ### 🌱 2024 Subaquatic Vegetation Surveys - Baltimore County & Anne Arundel County  
 - During the spring and summer months I lead a team of field researchers and environmental scientists for the yearly SAV surveys for both Anne Arundel and Baltimore Counties in Maryland. This project consists of every single step of the geospatial analysis process from data collection and engineering, to data analysis, visualization, technical reporting, and cartography. 
 - This [link](https://drive.google.com/file/d/15wwp6el_BKR4gihspn6cxKzxbaKyjVjT/view?usp=drive_link) will take you to a Google Drive where the PDF verision of the entire project's deliverables are. You will need to have a PDF Viewer such as Adobe, or download the pdf in order to view the document, final reports, maps, and charts.
 - An ArcGIS StoryMap has been created and is pending approval for public viewing. 
-- Tools: ESRI Field Maps, GPS Mapping, Data Collection, Statistical Analysis, Cartography, Data Visualization, Data Analysis, Field Work, ArcGIS StoryMap
+- Tools: GPS Mapping, Data Collection, Statistical Analysis, Cartography, Data Visualization, Data Analysis, Field Work, ArcGIS StoryMap
 
 ### 🔍 Spring and Summer SAV Bed Composite Automation  
 - Developed [python scripts](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/2814ed4ff8bdd321f419cb1463c1aad0db2d825d/Create%20the%20Yearly%20Composites) to automate the creation of SAV composite beds for VIMS' monitoring web maps using 2024 data. 
@@ -58,6 +59,10 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ### 🗺️ Shapefile Statistical Comparison & Analysis  
 - Created [python scripts](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/9a5980594703cdce793f368f9b80c9a7d1ebe31f/SAV%20Species%20Distribution) that analyzed and calculated SAV data for species, density, and acreage trends, comparing datasets across seasons. This data is crucial for enviromental restoration efforts in the county's waterways. Due to the natural geography of Maryland and the environmental importance of these fragile waterways and wetlands, the data is crucial for environmental engineering efforts such as shoreline restoration, dredging, marina design and engineering, and is a key indicator for the overall environmental health of the waterways.
 - Tools: ArcGIS Pro, Python, Project Toolbox 
+
+### 2025 Illicit Discharge Detection and Elimination Monitoring for MS4 permits: the City of Annapolis, Department of Veterans Affairs, & City of Takoma Park
+- Implemented ESRI's Survey123 and Field Maps to seamlessly collect field data with georeferenced photographic documentation. This was an upgrade from a legacy system of paper forms and paper fieldmaps. This upgrade allowed for GPS location tracking abilities to locate outfalls and stormwater management pipes via mobile phone.
+-Tools: Survey123, FieldMaps, Water Quality Collection & Testing, Technical Reporting
 
 ### 🌊 Drone Mapping & Aerial Photography **Coming Soon...** 
 - As a recently certified FAA Part 107 Drone Pilot (November 2024), I am just beginning in my efforts to understand the importance of drones and UAS in various applications.
