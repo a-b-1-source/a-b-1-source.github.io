@@ -17,7 +17,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ## Skills  
 ### Technical Skills  
-- **Programming**: Python (ArcPy), Machine Learning, Deep Learning, PyTorch, TensorFlow, SQL, HTML, GitHub, Jupyter Notebook, Numpy, Pandas, Matplotlib, Scikit-Learning, Anaconda 
+- **Data Science & Programming**: Python (ArcPy), Machine Learning, Deep Learning, PyTorch, TensorFlow, SQL, HTML, GitHub, Jupyter Notebook, Numpy, Pandas, Matplotlib, Scikit-Learning, Anaconda 
 - **GIS**: ArcGIS Pro, ArcGIS Online, Geospatial Analysis, ArcGIS StoryMaps, Mapbox Studio, QGIS, GeoAI, ESRI Survey123, ESRI Field Maps  
 - **Remote Sensing**: Drone Piloting (FAA Part 107 certified), Satellite Imagery Analysis, FPV Piloting, PIX4D  
 - **Data Visualization**: Geospatial Dashboards, **Tableau**, ArcGIS Online
