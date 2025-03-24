@@ -23,6 +23,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - **Data Visualization**: Geospatial Dashboards, **Tableau**, ArcGIS Online
 - **Computer Builder**: Custom computer builds
 - **Drone Builder**: 5" Quad-copter, 7" Quad-copter FPV builds
+- **HomeLab Hobbiest**: Enterprise Server Management, Proxmox, Linux
 
 ### Soft Skills  
 - Project Management  
