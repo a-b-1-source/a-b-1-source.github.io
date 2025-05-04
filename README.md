@@ -17,7 +17,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ## Skills  
 ### Technical Skills  
-- **Data Science & Programming**: Python (ArcPy), Machine Learning, Deep Learning, PyTorch, TensorFlow, SQL, HTML, GitHub, Jupyter Notebook, Numpy, Pandas, Matplotlib, Scikit-Learning, Anaconda 
+- **Data Science & Programming**: Python (ArcPy), Convolutional Neural Networks, Computer Vision, Machine Learning, Deep Learning, PyTorch, TensorFlow, Plotly, SQL, HTML, GitHub, Jupyter Notebook, Numpy, Folium, Leadmap, Pandas, Matplotlib, Scikit-Learning, Anaconda 
 - **GIS**: ArcGIS Pro, ArcGIS Online, Geospatial Analysis, ArcGIS StoryMaps, Mapbox Studio, QGIS, GeoAI, ESRI Survey123, ESRI Field Maps  
 - **Remote Sensing**: Drone Piloting (FAA Part 107 certified), Satellite Imagery Analysis, FPV Piloting, PIX4D  
 - **Data Visualization**: Geospatial Dashboards, **Tableau**, ArcGIS Online
@@ -38,6 +38,16 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 ---
 
 ## Work Projects
+
+### 🔍 Mapping Incident Reports - Toponym Extraction & Spatial Clustering with Geospatial AI - Made for GEOG 582 - Geospatial AI @ Penn State, Spring 2025
+- AI-enhanced toponym extracction and spatial clustering from synthetic Twitter flood reports in Annapolis, MD.
+- **Goal**: Extract location names from incident reports using AI, geocode them, and map spatial clusters.
+- **Tools**: spaCy, Geopy (Nominatim), DBSCAN (scikit-learn), Folium
+- **Techniques**: Named entity recognition, prompt engineering, geocoding, spatial clustering
+- **Data**: 50 synthetic incident reports generated using OpenAI's GPT-4.5
+- Custom LLM prompts used to normalize ambiguous place names.
+- Interactive maps and heatmaps show incident clustering in Annapolis.
+- Reflections on model limitations and future improvements using GPT APIs.
 
 ### 🌱 2025 Subaquatic Vegetation Surveys - Baltimore County & Anne Arundel County
 - For the 2025 year, I have built python scripts to automate the project initiation phase of the project. This consists of updating 80+ Layouts/Field Maps and exporting them, as well as renaming shapefiles and scrubbing data from their attribute tables.
@@ -79,9 +89,9 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ### Relevant Coursework & Academic Projects
 - Python Programming in ArcGIS - Python, HTML, SQL
-- Geospatial Artificial Intelligence - Jupyter Notebook, PyTorch, Tensorflow, Matplotlib, Scikit Learn, Machine Learning, Linear Regression, Logistic Regression, Numpy, Pandas, Ancaonda 
-- Geospatial Applications of Unmanned Aerial Systems (UAS)
-- Spatial Data Science Ethics - Social and Behavioral Human Subjects Research Course Certificate
+- Geospatial Artificial Intelligence - Convolutional Neural Networks, Residual Neural Networks, Supervised & Unsupervised Learning, Computer Vision, Leafmap, Folium, spaCy, Jupyter Notebook, PyTorch, Tensorflow, Matplotlib, Scikit-learn, Machine Learning, Linear Regression, Logistic Regression, Numpy, Pandas, Ancaonda 
+- Open Web Mapping
+- Spatial Data Science Ethics - Research centered around AI and Data Science Ethics, Acquired a Social and Behavioral Human Subjects Research Certificate
 - Cartography and Visualization - **Tableau Projects:** [1](https://public.tableau.com/views/Lab6_Part_1/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [2](https://public.tableau.com/views/Lab6_Part_2/Lab6Part2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [3](https://public.tableau.com/views/Lab6_Part_3/Lab6_Part_3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [4](https://public.tableau.com/views/Bandarenko_Lab7/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [ArcGIS StoryMap Final Project: Tracking and Preventing the 2025 Measles Outbreak](https://arcg.is/0fjDn9)
 - Geovisual Analytics
 - Problem-Solving with GIS
