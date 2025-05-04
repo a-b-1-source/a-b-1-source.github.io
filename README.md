@@ -39,7 +39,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ## Work Projects
 
-### 🔍 Mapping Incident Reports - Toponym Extraction & Spatial Clustering with Geospatial AI - Made for GEOG 582 - Geospatial AI @ Penn State, Spring 2025
+### 🔍 Mapping Incident Reports - [Toponym Extraction & Spatial Clustering with Geospatial AI](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/e98d9acf7d8e54bdcb7ed7d22e757c8bb2c66cb9/Toponym%20Clustering%20project.zip) - Made for GEOG 582 - Geospatial AI @ Penn State, Spring 2025
 - AI-enhanced toponym extracction and spatial clustering from synthetic Twitter flood reports in Annapolis, MD.
 - **Goal**: Extract location names from incident reports using AI, geocode them, and map spatial clusters.
 - **Tools**: spaCy, Geopy (Nominatim), DBSCAN (scikit-learn), Folium
