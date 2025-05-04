@@ -9,17 +9,17 @@ Welcome to my portfolio! Here, you'll find information about my professional bac
 
 🚀 Currently pursuing a **Master's in Spatial Data Science** with Penn State University  - **3.83 GPA** 
 
-📍 **U.S. Citizen based in the DC/Baltimore Area & is eligible to obtain a security clearance**
+📍 **Based in the DC/Baltimore Area & is eligible to obtain a security clearance**
 
 I work at the intersection of **environmental science**, **GIS analysis**, **data science**, and **emerging technologies** like **drones**, **artificial intelligence**, **deep learning**, **machine learning** and **spatial computing**. My ultimate goal is to combine my expertise to contribute to innovative projects that support sustainability, explore space, enhance government technology, and defense initiatives.
 
 ---
 
-## Skills  
+## Skills, Software & Hardware
 ### Technical Skills  
-- **Data Science & Programming**: Python (ArcPy), Convolutional Neural Networks, Computer Vision, Machine Learning, Deep Learning, PyTorch, TensorFlow, Plotly, SQL, HTML, GitHub, Jupyter Notebook, Numpy, Folium, Leadmap, Pandas, Matplotlib, Scikit-Learning, Anaconda 
+- **Data Science & Programming**: Python (ArcPy), Convolutional Neural Networks, Computer Vision, Machine Learning, Deep Learning, PyTorch, TensorFlow, Plotly, SQL, HTML, GitHub, Jupyter Notebook, Numpy, Folium, Leafmap, Pandas, Matplotlib, Scikit-learn, Anaconda 
 - **GIS**: ArcGIS Pro, ArcGIS Online, Geospatial Analysis, ArcGIS StoryMaps, Mapbox Studio, QGIS, GeoAI, ESRI Survey123, ESRI Field Maps  
-- **Remote Sensing**: Drone Piloting (FAA Part 107 certified), Satellite Imagery Analysis, FPV Piloting, PIX4D  
+- **Remote Sensing**: Drone Piloting (FAA Part 107 certified), Satellite Imagery Analysis, Rasterio, FPV Piloting, PIX4D  
 - **Data Visualization**: Geospatial Dashboards, **Tableau**, ArcGIS Online
 - **Computer Builder**: Custom computer builds
 - **Drone Builder**: 5" Quad-copter, 7" Quad-copter FPV builds
@@ -39,8 +39,8 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ## Work Projects
 
-### 🔍 [Toponym Extraction & Spatial Clustering with Geospatial AI](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/e98d9acf7d8e54bdcb7ed7d22e757c8bb2c66cb9/Toponym%20Clustering%20project.zip) Mapping Incident Reports - Made for GEOG 582 - Geospatial AI @ Penn State, Spring 2025
-- AI-enhanced toponym extracction and spatial clustering from synthetic Twitter flood reports in Annapolis, MD.
+### 🔍 [Toponym Extraction & Spatial Clustering with Geospatial AI](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/e98d9acf7d8e54bdcb7ed7d22e757c8bb2c66cb9/Toponym%20Clustering%20project.zip) Mapping Incident Reports - Made for GEOG 582 Geospatial AI @ Penn State, Spring 2025
+- AI-enhanced toponym extracction and spatial clustering using synthetic Twitter data to identify flood related hotspots in Annapolis, MD.
 - **Goal**: Extract location names from incident reports using AI, geocode them, and map spatial clusters.
 - **Tools**: spaCy, Geopy (Nominatim), DBSCAN (scikit-learn), Folium
 - **Techniques**: Named entity recognition, prompt engineering, geocoding, spatial clustering
@@ -49,16 +49,12 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - Interactive maps and heatmaps show incident clustering in Annapolis.
 - Reflections on model limitations and future improvements using GPT APIs.
 
-### 🌱 2025 Subaquatic Vegetation Surveys - Baltimore County & Anne Arundel County
-- For the 2025 year, I have built python scripts to automate the project initiation phase of the project. This consists of updating 80+ Layouts/Field Maps and exporting them, as well as renaming shapefiles and scrubbing data from their attribute tables.
-- Implemented ESRI's Field Maps to perform data collection via iPad in the field, upgrading from previous legacy systems
-- Tools: Jupyter Notebook
-
-### 🌱 2024 Subaquatic Vegetation Surveys - Baltimore County & Anne Arundel County  
+### 🌱 2024 - 2025 Subaquatic Vegetation Surveys - Baltimore County & Anne Arundel County  
 - During the spring and summer months I lead a team of field researchers and environmental scientists for the yearly SAV surveys for both Anne Arundel and Baltimore Counties in Maryland. This project consists of every single step of the geospatial analysis process from data collection and engineering, to data analysis, visualization, technical reporting, and cartography. 
 - This [link](https://drive.google.com/file/d/15wwp6el_BKR4gihspn6cxKzxbaKyjVjT/view?usp=drive_link) will take you to a Google Drive where the PDF verision of the entire project's deliverables are. You will need to have a PDF Viewer such as Adobe, or download the pdf in order to view the document, final reports, maps, and charts.
+- For the 2025 year, I have built python scripts to automate the project initiation phase of the project. This consists of updating 80+ Layouts/Field Maps and exporting them, as well as renaming shapefiles and scrubbing data from their attribute tables.
 - An ArcGIS StoryMap has been created and is pending approval for public viewing. 
-- Tools: GPS Mapping, Data Collection, Statistical Analysis, Cartography, Data Visualization, Data Analysis, Field Work, ArcGIS StoryMap
+- Tools: GPS Mapping, Data Collection, Statistical Analysis, Cartography, Data Visualization, Data Analysis, Field Work, ArcGIS StoryMap, Jupyter Notebook
 
 ### 🔍 Spring and Summer SAV Bed Composite Automation  
 - Developed [python scripts](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/2814ed4ff8bdd321f419cb1463c1aad0db2d825d/Create%20the%20Yearly%20Composites) to automate the creation of SAV composite beds for VIMS' monitoring web maps using 2024 data. 
@@ -75,7 +71,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - Implemented ESRI's Survey123 and Field Maps to seamlessly collect field data with georeferenced photographic documentation. This was an upgrade from a legacy system of paper forms and paper fieldmaps. This upgrade allowed for GPS location tracking abilities to locate outfalls and stormwater management pipes via mobile phone. The project is conducted according to the MS4 permit ensuring the contracting entities are abiding to the EPA and Maryland stormwater standards.
 -Tools: Survey123, FieldMaps, Water Quality Collection & Testing, Technical Reporting
 
-### 🌊 Drone Mapping & Aerial Photography **[Google Portfolio](https://drive.google.com/drive/folders/1D1YL1-cP-TDoTsYMQm5Y-H8O6Zvbm46u?usp=sharing)** 
+### 🌊 Drone Mapping & Aerial Photography - **[Google Portfolio](https://drive.google.com/drive/folders/1D1YL1-cP-TDoTsYMQm5Y-H8O6Zvbm46u?usp=sharing)** 
 - As a recently certified FAA Part 107 Drone Pilot (November 2024), I am just beginning in my efforts to understand the importance of drones and UAS in various applications.
 - 50+ Hours in FPV flight simulators
 
@@ -88,11 +84,11 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ### Relevant Coursework & Academic Projects
 - Python Programming in ArcGIS - Python, HTML, SQL
-- Geospatial Artificial Intelligence - Convolutional Neural Networks, Residual Neural Networks, Supervised & Unsupervised Learning, Computer Vision, Leafmap, Folium, spaCy, Jupyter Notebook, PyTorch, Tensorflow, Matplotlib, Scikit-learn, Machine Learning, Linear Regression, Logistic Regression, Numpy, Pandas, Ancaonda 
-- Open Web Mapping
+- Geospatial Artificial Intelligence - Convolutional Neural Networks, Residual Neural Networks, Supervised & Unsupervised Learning, Computer Vision, Leafmap, Folium, spaCy, Jupyter Notebook, PyTorch, Tensorflow, Matplotlib, Scikit-learn, Machine Learning, Linear Regression, Logistic Regression, Numpy, Pandas, Anaconda 
+- Open Web Mapping*
 - Spatial Data Science Ethics - Research centered around AI and Data Science Ethics, Acquired a Social and Behavioral Human Subjects Research Certificate
 - Cartography and Visualization - **Tableau Projects:** [1](https://public.tableau.com/views/Lab6_Part_1/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [2](https://public.tableau.com/views/Lab6_Part_2/Lab6Part2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [3](https://public.tableau.com/views/Lab6_Part_3/Lab6_Part_3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [4](https://public.tableau.com/views/Bandarenko_Lab7/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [ArcGIS StoryMap Final Project: Tracking and Preventing the 2025 Measles Outbreak](https://arcg.is/0fjDn9)
-- Geovisual Analytics
+- Geovisual Analytics*
 - Problem-Solving with GIS
 - Making Maps that Matter - ArcGIS Pro, ArcGIS Online, QGIS
 ---
@@ -103,8 +99,9 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - Specializing in Chesapeake Bay restoration and GIS solutions for ecological projects.
 - Developed Python scripts to automate workflows, significantly reducing repetitive tasks and improving efficiency.
 - Migrated BayLand's biggest GIS projects from ArcMap into ArcGIS Pro
-- I serve as a Go-To person for GIS related questions and troubleshooting within my organization.
-- Performed Construction Monitoring and Inspection (CMI) sergvices for multiple ecologically sensitive projects
+- Created the company standards for GIS workflows in ArcGIS Pro
+- I serve as a SME for GIS related questions and troubleshooting within my organization.
+- Performed CMI services on ecologically sensitive sites, ensuring compliance with state and EPA guidelines.
 - Other job duties: Drone Photohraphy, Hydrographic Surveying, Stream Monitoring, illicit discharge detection and elimination (IDDE), sediment sampling, cartography, soil boring/testing, Wolman pebble count and technical report writing
 
 ### Boat Operator & Field Researcher/Surveyor  
