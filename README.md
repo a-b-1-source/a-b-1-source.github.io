@@ -39,7 +39,7 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 
 ## Work Projects
 
-### 🔍 Mapping Incident Reports - [Toponym Extraction & Spatial Clustering with Geospatial AI](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/e98d9acf7d8e54bdcb7ed7d22e757c8bb2c66cb9/Toponym%20Clustering%20project.zip) - Made for GEOG 582 - Geospatial AI @ Penn State, Spring 2025
+### 🔍 [Toponym Extraction & Spatial Clustering with Geospatial AI](https://github.com/a-b-1-source/a-b-1-source.github.io/blob/e98d9acf7d8e54bdcb7ed7d22e757c8bb2c66cb9/Toponym%20Clustering%20project.zip) Mapping Incident Reports - Made for GEOG 582 - Geospatial AI @ Penn State, Spring 2025
 - AI-enhanced toponym extracction and spatial clustering from synthetic Twitter flood reports in Annapolis, MD.
 - **Goal**: Extract location names from incident reports using AI, geocode them, and map spatial clusters.
 - **Tools**: spaCy, Geopy (Nominatim), DBSCAN (scikit-learn), Folium
@@ -72,13 +72,12 @@ I work at the intersection of **environmental science**, **GIS analysis**, **dat
 - Tools: ArcGIS Pro, Python, Project Toolbox 
 
 ### 2025 Illicit Discharge Detection and Elimination Monitoring for MS4 permits: the City of Annapolis, Department of Veterans Affairs, & City of Takoma Park
-- Implemented ESRI's Survey123 and Field Maps to seamlessly collect field data with georeferenced photographic documentation. This was an upgrade from a legacy system of paper forms and paper fieldmaps. This upgrade allowed for GPS location tracking abilities to locate outfalls and stormwater management pipes via mobile phone.
+- Implemented ESRI's Survey123 and Field Maps to seamlessly collect field data with georeferenced photographic documentation. This was an upgrade from a legacy system of paper forms and paper fieldmaps. This upgrade allowed for GPS location tracking abilities to locate outfalls and stormwater management pipes via mobile phone. The project is conducted according to the MS4 permit ensuring the contracting entities are abiding to the EPA and Maryland stormwater standards.
 -Tools: Survey123, FieldMaps, Water Quality Collection & Testing, Technical Reporting
 
-### 🌊 Drone Mapping & Aerial Photography **Coming Soon...** 
+### 🌊 Drone Mapping & Aerial Photography **[Google Portfolio](https://drive.google.com/drive/folders/1D1YL1-cP-TDoTsYMQm5Y-H8O6Zvbm46u?usp=sharing)** 
 - As a recently certified FAA Part 107 Drone Pilot (November 2024), I am just beginning in my efforts to understand the importance of drones and UAS in various applications.
 - 50+ Hours in FPV flight simulators
-- This section will be updated with a link to a portfolio of photos and videos.
 
 ---
 
